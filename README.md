@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Muhammad Mohib Khan 👋
 
-<!--
-**muhammadmohibk/muhammadmohibk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Centre, Core & Transmission Lead** at Shabakkat Cellular (Zain KSA) — I run operations for **2,729 live sites** with a 15-member team in Riyadh, holding **99.95% uptime**.
 
-Here are some ideas to get you started:
+I also founded **InfraGov KSA** — infrastructure governance and operational intelligence for SMEs: infra health-check audits, NOC/SLA dashboards, and quarterly advisory.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I work with
+
+- Data center infrastructure, core & transmission networks
+- n8n workflow automation and AI-augmented operations (Jev decision models, OpenRouter)
+- NOC reporting, SLA governance, PDPL-aware outreach automation
+
+## 📌 Current focus
+
+- ITIL 5 Foundation certification (in progress)
+- AI-powered lead generation and content automation with n8n
+- Growing InfraGov KSA's first SME clients in Riyadh
+
+## 📫 Reach me
+
+- 📧 mohibalikhan72@gmail.com
+
+---
+
+⚡ Outside infra: I run **The Tiffin's** — weekend-only, pre-order home-style Pakistani & Indian food in Riyadh (Fri–Sat).
